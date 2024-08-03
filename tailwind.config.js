@@ -13,6 +13,7 @@ module.exports = {
         "light-pink": "rgba(249 240 255 / <alpha-value>)",
         "grayish-purple": "rgba(140 105 145 / <alpha-value>)",
         "dark-purple": "rgba(47 21 51 / <alpha-value>)",
+        "alt-purple": "rgba(173 40 235 / <alpha-value>)",
       },
       backgroundImage: {
         "mobile-pattern": "url(../public/images/background-pattern-mobile.svg)",
