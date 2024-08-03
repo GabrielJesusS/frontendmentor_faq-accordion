@@ -1,5 +1,5 @@
 {
-  "name": "parcel-boilerplate",
+  "name": "faq-accordion-solution",
   "version": "0.0.4",
   "scripts": {
     "dev": "parcel source/pages/**/*.html --open",
@@ -7,9 +7,13 @@
     "lint": "biome lint source/scripts/*.ts",
     "lint:fix": "biome lint --write source/scripts/*.ts"
   },
-  "keywords": [],
+  "keywords": [
+    "frontendmentor",
+    "faq-accordion",
+    "accordion"
+  ],
   "author": "Gabriel Jesus",
-  "description": "An parcel boilerplate",
+  "description": "An frontendmentor solution - faq-accordion",
   "config": {
     "assets": ".",
     "output": "./out"
