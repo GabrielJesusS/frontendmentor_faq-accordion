@@ -1,6 +1,6 @@
 {
   "name": "faq-accordion-solution",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "dev": "parcel source/pages/**/*.html --open",
     "build": "parcel build --dist-dir $npm_package_config_output --public-url $npm_package_config_assets source/pages/**/*.html",
