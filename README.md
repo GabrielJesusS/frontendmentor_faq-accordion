@@ -16,11 +16,11 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![](./assets/desktop.png)
+![](./docs/desktop.png)
 
 ### Links
 
--Solution URL: [#](#)
+-Solution URL: [https://www.frontendmentor.io/solutions/my---faqs-accordion-solution-QTIdhJ_6rP](https://www.frontendmentor.io/solutions/my---faqs-accordion-solution-QTIdhJ_6rP)
 
 -Live Site URL: [https://gabrieljesuss.github.io/frontendmentor_faq-accordion/](https://gabrieljesuss.github.io/frontendmentor_faq-accordion/)
 
