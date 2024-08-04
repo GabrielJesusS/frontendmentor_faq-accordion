@@ -1,4 +1,4 @@
-<details class="group" {{status}}>
+<details class="group" {{open?"open":"data-closed"}}>
     <summary
         class="text-base hover:text-alt-purple transition-colors duration-150 ease-in-out md:text-lg list-none font-semibold flex items-center justify-between w-full space-x-4 leading-[1.15] text-dark-purple cursor-pointer"
     >
@@ -6,10 +6,12 @@
         <img
             class="shrink-0 group-open:hidden"
             src="../public/icons/icon-plus.svg"
+            alt="Plus icon - closed accordion"
         />
         <img
             class="shrink-0 hidden group-open:block"
             src="../public/icons/icon-minus.svg"
+            alt="Minus icon - opened accordion"
         />
     </summary>
     <div class="mt-6 text-sm md:text-base leading-normal">
